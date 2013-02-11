@@ -8,7 +8,7 @@ watch.
 The hack is split into two parts: PebbleNotifierListener and the main
 PebbleNotifier.
 
-PebbleNotifierListener hooks on Srpingboard and forward all notifications
+PebbleNotifierListener hooks on Springboard and forward all notifications
 through CPDistributedMessagingCenter to PebbleApp.
 
 PebbleNotifier hooks on PebbleApp. It will listen on those messages from
