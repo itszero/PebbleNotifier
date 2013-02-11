@@ -1,0 +1,3 @@
+- Merge those two hacks to one
+- Hack PebbleApp to make it running in background continuously (Just fix the
+  plist? or hack it using MobileSubstrate?)

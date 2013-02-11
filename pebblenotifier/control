@@ -1,0 +1,9 @@
+Package: tw.itsZero.pebblenotifier
+Name: PebbleNotifier
+Depends: mobilesubstrate, tw.itsZero.notification-listener-for-pebble
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Sends all notifications to your Pebble watch!
+Maintainer: Chien-An "Zero" Cho<itszero@gmail.com>
+Author: Chien-An "Zero" Cho<itszero@gmail.com>
+Section: Tweaks

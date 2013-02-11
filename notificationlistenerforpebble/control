@@ -1,0 +1,9 @@
+Package: tw.itsZero.notification-listener-for-pebble
+Name: PebbleNotifierListener
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hooks on SpringBoard and forward all notifications to PebbleNotifier.
+Maintainer: Chien-An "Zero" Cho<itszero@gmail.com>
+Author: Chien-An "Zero" Cho<itszero@gmail.com>
+Section: Tweaks

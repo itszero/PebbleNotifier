@@ -1,0 +1,10 @@
+# theos project could be found anywhere, bring your own!
+theos
+.theos
+
+# those are intermediate build products
+obj
+_
+
+# not including binary packages here
+*.deb
