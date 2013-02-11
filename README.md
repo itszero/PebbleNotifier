@@ -33,7 +33,7 @@ background (with my hack).
 
 ## How to contribute
 
-Please fork it, mess with it and send me a pull request. There is a few things
+Please fork it, mess with it and send me a pull request. There are a few things
 that I need help listed in the TODO file. It's a good place to start. :)
 
 ## Demo
